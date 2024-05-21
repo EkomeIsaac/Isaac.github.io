@@ -1,0 +1,125 @@
+/* home: style the links inside the navigation bar*/
+.topnav-right{
+    float: right;
+    text-align: right;
+    padding: 5px 150px;
+    text-decoration: none;
+    font-size: 12px;
+    word-spacing: 10px;
+}
+a:visited{color:white;}
+a:link{color: white;}
+a:hover{color:green}
+.tittle{
+    font-weight: bold;
+    font-size: 50px;
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-color:rgb(33, 51, 51);
+    color: white;
+    margin: 10px 100px;
+}
+.image he{
+    font-size: 8px;
+}
+.h1{
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: -50px;
+}
+span{
+    color:blue;
+    font-weight: bold;
+}
+.wi{
+    font-size: 12px;
+}
+.da{
+    font-size: 12px;
+    padding: 25px 0px;
+}
+.image img{
+    float: right;
+    height: 260px;
+    margin: 0px 0px 15px 20px;
+    width: 260px;
+    border-radius: 50%;
+    border: 10px solid #fff;
+
+}
+
+/*this is the styling for about page*/ 
+.picture img{
+    float: left;
+    height: 400px;
+    margin: 20px 150px 15px 20px;
+    width: 250px;
+    border-radius: 15px;
+    border: 10px solid #bbb;
+}
+.notes p{
+    float: right;
+    margin: 20px 400px 20px 20px;
+    width: 250px;
+}
+.notes p vane{
+    color: blue;
+}
+.notes p vero{
+    font-size: 18px;
+    font-weight: bold;
+}
+.notes p kero{
+    font-size: 12px;
+    color: black;
+    text-decoration: none;
+}
+
+
+/*this is the stilling for contact page*/
+.vitim p{
+    margin: 50px;
+}
+
+
+/*this is the about stilling*/
+tell{
+    font-size: 60px;
+    font-weight: bolder;
+    text-align: center;
+    color: rgb(100, 88, 20);
+}
+real{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: justify;
+}
+vde{
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: justify;
+}
+f{
+    color: rgb(14, 226, 14);
+}
+w{
+    color: rgb(255, 0, 0);
+}
+k{
+    color: yellow;
+}
+
+.mecan{
+    background-color: grey;
+    height: 30%;
+    width: 100%;
+    border: 2px 2px 2px 2px solid white;
+}
+
+h5{
+    text-align: left;
+    font-size: large; 
+    
+}
